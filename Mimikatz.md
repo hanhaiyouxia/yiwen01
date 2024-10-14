@@ -55,3 +55,4 @@ process::list
 
 `john --wordlist=/path/to/wordlist.txt --format=NT hashes.txt`
 `john --mask=?l?l?l?l?l?l?d?d --format=NT hashes.txt`
+ john --format=NT hash.txt
